@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:DataTypesAndVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice.cpp",
+              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp",
+              "RelativeDocumentMoniker": "Practice.cpp",
+              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp",
+              "RelativeToolTip": "Practice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T17:01:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T17:00:52.574Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTypesAndVariables.cpp",
+              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp",
+              "RelativeDocumentMoniker": "DataTypesAndVariables.cpp",
+              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp",
+              "RelativeToolTip": "DataTypesAndVariables.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T16:59:12.274Z",
+              "EditorCaption": ""
             }
           ]
         }
