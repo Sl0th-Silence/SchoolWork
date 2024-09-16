@@ -3,16 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:DataTypesAndVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ADA0E3FD-44B8-42A8-AA3B-DD829D55679D}|COMP1016.vcxproj|solutionrelative:HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD4AB8F-F45F-424E-A8AD-9EC3D39B31D2}|..\\EX2\\EX2.vcxproj|C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\EX2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +29,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Practice.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp",
-              "RelativeDocumentMoniker": "Practice.cpp",
-              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\Practice.cpp",
-              "RelativeToolTip": "Practice.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\EX2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\EX2\\Source.cpp",
+              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\EX2\\Source.cpp",
+              "RelativeToolTip": "..\\EX2\\Source.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-16T17:01:08.677Z",
+              "WhenOpened": "2024-09-16T17:30:31.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld.cpp",
@@ -56,19 +51,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-16T17:00:52.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataTypesAndVariables.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp",
-              "RelativeDocumentMoniker": "DataTypesAndVariables.cpp",
-              "ToolTip": "C:\\Users\\Jay_M\\OneDrive\\Desktop\\COMP-1016\\COMP1016\\DataTypesAndVariables.cpp",
-              "RelativeToolTip": "DataTypesAndVariables.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-16T16:59:12.274Z",
               "EditorCaption": ""
             }
           ]

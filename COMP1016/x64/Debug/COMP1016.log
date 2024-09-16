@@ -1,5 +1,7 @@
 ﻿  DataTypesAndVariables.cpp
-  HelloWorld.cpp
   Practice.cpp
   Generating Code...
-  COMP1016.vcxproj -> C:\Users\Jay_M\OneDrive\Desktop\COMP-1016\COMP1016\x64\Debug\COMP1016.exe
+  LINK : C:\Users\Jay_M\OneDrive\Desktop\COMP-1016\COMP1016\x64\Debug\COMP1016.exe not found or not built by the last incremental link; performing full link
+HelloWorld.obj : error LNK2005: main already defined in DataTypesAndVariables.obj
+Practice.obj : error LNK2005: main already defined in DataTypesAndVariables.obj
+C:\Users\Jay_M\OneDrive\Desktop\COMP-1016\COMP1016\x64\Debug\COMP1016.exe : fatal error LNK1169: one or more multiply defined symbols found
